@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
   
   
-![Computer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1NTNmaXNtOXVhbmJnM2Y5YjI1amszODhuMmdiZHBxMjI2dDh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif)
+![Computer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1kZ3Fub29mbXU5dm94aXQ0dXU0cDFsM3NhOXJsdmx6MzRyYWUzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/122teRA3vWUZ9u/giphy.gif)
