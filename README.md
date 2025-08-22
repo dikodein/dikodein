@@ -1,5 +1,7 @@
 ## Hello World! I'm Nicholas Wijaya 👋
 
+![Nicholas Wijaya](img/banner.png)
+
 <!--
 **dikodein/dikodein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,5 @@ Here are some ideas to get you started:
 - I'm a person who **enjoys programming**, both for the _web and robots_. I graduated from vocational high school, majoring in Computer and Network Engineering. I graduated in 2022.
 - [**Facebook**](https:facebook.com/nicholaswijayareal)
 - [**Instagram**](https:instagram.com/nichlswy_)
+
+**(☞ﾟヮﾟ)☞ 🎯 ☜(ﾟヮﾟ☜)**
