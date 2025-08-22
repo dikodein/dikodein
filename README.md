@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ![https:facebook.com/nicholaswijayareal](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![https:instagram.com/nichlswy_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+#### My GitHub Stats
+![dikodein's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikodein&show_icons=true&theme=transparent)
+
