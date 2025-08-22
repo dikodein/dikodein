@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 -->
 
 - I'm a person who **enjoys programming**, both for the _web and robots_. I graduated from vocational high school, majoring in Computer and Network Engineering. I graduated in 2022.
+
+#### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+#### Social Media
 - [**Facebook**](https:facebook.com/nicholaswijayareal)
 - [**Instagram**](https:instagram.com/nichlswy_)
 
-  
-  
-![Computer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JseTFheGNvM2o0dnp4bGd0bngwejNpZ3I5MmsybHJ0YTFtczRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10arlAx4rI0xHO/giphy.gif)
