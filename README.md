@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 ![https:instagram.com/nichlswy_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 #### My GitHub Stats
-![dikodein's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikodein&show_icons=true&theme=radical)
-
+![dikodein's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikodein&show_icons=true&theme=default#gh-light-mode-only)
