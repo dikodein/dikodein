@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - [**Facebook**](https:facebook.com/nicholaswijayareal)
 - [**Instagram**](https:instagram.com/nichlswy_)
 
-- **(☞ﾟヮﾟ)☞ 🎯 ☜(ﾟヮﾟ☜)**
+  
   
 ![Computer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1NTNmaXNtOXVhbmJnM2Y5YjI1amszODhuMmdiZHBxMjI2dDh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif)
