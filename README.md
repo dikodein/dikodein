@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - [**Facebook**](https:facebook.com/nicholaswijayareal)
 - [**Instagram**](https:instagram.com/nichlswy_)
 
-**(☞ﾟヮﾟ)☞ 🎯 ☜(ﾟヮﾟ☜)**
+- **(☞ﾟヮﾟ)☞ 🎯 ☜(ﾟヮﾟ☜)**
