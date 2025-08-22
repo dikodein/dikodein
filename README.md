@@ -1,6 +1,6 @@
 ## Hello World! I'm Nicholas Wijaya 👋
 
-![Nicholas Wijaya](img/banner.png)
+![Nicholas Wijaya](img/banner.jpeg)
 
 <!--
 **dikodein/dikodein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
